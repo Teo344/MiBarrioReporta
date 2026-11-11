@@ -1,0 +1,59 @@
+Taller
+Mateo Criollo
+19-10-2026
+
+1. Defina el ciclo de vida de un sistema y nombre las 7 etapas
+
+El ciclo se define como un recorrido o conjunto de procesos estructurados que organiza por etapas la construcción y vida de un software. Considerando las 7 etapas como :
+
+- Planificación
+- Análisis
+- Diseño
+- Construcción
+- Pruebas
+- Despliegue
+- Mantenimiento
+
+
+
+2. ¿Qué etapa suele concentrar el mayor coste total de un sistema y por qué?
+
+En este caso, la etapa con mayor costo es la construcción, debido a que en esta se empiezan a integrar los flujos de trabajo, las herramientas y su coste, junto con el manejo de tiempos y, peor aún, si aquí existen cambios tardíos o no previstos que pueden generar una reestructuración de la fase.
+
+
+3. Mencione dos diferencias entre cascada y ágil y exponga una situación en la que elegiría cada uno.
+
+- El método en cascada es mejor cuando el alcance y los requisitos están completamente establecidos y es casi nulo el cambio de los mismos; en caso contrario, con la metodología ágil, que siempre cambia constantemente.
+
+- La metodología  ágil resulta útil cuando se busca validar entregas y ajustar requisitos durante el trabajo, donde existe mucha más interacción con el cliente; a diferencia del método en cascada, donde el cliente solo forma parte al inicio y casi al final del proceso.
+
+
+En este caso, para elegir la metodología se debería verificar para que entidad o area esta destinada principalmente; dado el caso que es u software destinado al area de la salud medica y que se encargará de proceso medicos metódicos como toma o análisis de signos vitales; definir claramente los requisitos junto con posibles riesgos y aspectos, la metodología en cascada es mas eficiente al ser un proyecto grande y que afectaría al area si no se trabaja cuidadosamente, caso contrario a la construcción de un software de un restaurante de la localidad que solamente busca registrar lo que son pedidos de su menu; en la cual puede cambiar los requisitos, aumentar funcionalidades y solicitar muchos mas cambios en alguna de las fases.
+
+4. Explique con su proyecto qué es el ciclo PDCA
+
+Este es un ciclo de planificar, hacer, verificar y actuar frente a las fases del proyecto, se planifica que las historias tengan responsables y criterios de aceptación; se crean el repositorio, el tablero y el backlog; se verifica al cierre de las semanas. Junto con el análisis y la presentación de entregables.
+
+
+
+5. ¿Qué entiende por la triple restricción y qué ocurre si el cliente pide más funciones sin cambiar el plazo?
+
+
+Se considera como un modelo para gestionar los limitantes o aspectos importantes que actúan como inconvenientes al momento de desarrollaron u proyecto, como lo son el tiempo el alcance y el costo; dado el caso de que e cliente pida mas funciones de lo esperado y sin dar tiempo, prácticamente el proyecto se vuelve inestable y proceso a presentar mas fallos de lo que debe, debido a que al aumentar el alcance, aumentan mas costos y además el tiempo es bajo para las nuevas fases que se deben considerar. Provocando desfases y entregas tardías en los mismos.
+
+
+
+6. Usando el proyecto, exponga la diferencia entre vulnerabilidad, amenaza y riesgo.
+
+Una vulnerabilidad sería una debilidad en permisos o controles que el sistema presenta y puede estar latente por bastante tiempo hasta que alguien la descubra; una amenaza, un acceso indebido o intento de manipulación que pudiera aprovecharla; y el riesgo, la posibilidad y el impacto de que eso ocurra, como exposición de datos o pérdida de confianza.
+
+
+7. Por qué corregir una vulnerabilidad en producción cuesta mucho más hacerlo que en el diseño
+
+Principalmente porque daña y afecta a las demás fases del proyecto, pues se exigirían cambios de diseño y en el código, además de propagar o notificar estos cambios al equipo de trabajo y, peor aún, al cliente, genera retrasos y aumento de recursos; además de perder la confianza del cliente al mencionarle problemas en su software. Puesto que corregirlos antes del despliegue puede evitar retrabajo y consecuencias para los usuarios.
+
+
+
+8. Exponga el objetivo de su proyecto
+
+El objetivo es desarrollar un sistema que permita a los vecinos del barrio Cuendina reportar problemas urbanos, mediante el uso del aplicativo web sin previo registro, permitiendo la verificación, aprobación y seguimiento de estos problemas a las autoridades de la comunidad para que puedan ser solventados.

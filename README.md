@@ -51,3 +51,5 @@ El detalle está en [CONTRIBUTING.md](CONTRIBUTING.md).
 |---|---|---|
 | Mateo Criollo | Teo344 | Estructura, CONTRIBUTING, PROCESO.md y retrospectiva |
 | David Cepeda | davidcepeda1 | Plantillas, diagrama editable y revisión de PR |
+
+Tablero del proyecto: https://github.com/users/Teo344/projects/2

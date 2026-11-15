@@ -17,7 +17,7 @@ Aplicación web para que los vecinos del **Barrio Cuendina (Amaguaña)** reporte
 
 ## Tecnología
 
-Python 3.13 · Django 5.2 LTS · PostgreSQL 17 · Bootstrap · Docker Compose v2 · GitHub Actions. Las razones están en [docs/04-arquitectura](docs/04-arquitectura/Arquitectura_MiBarrioReporta.md).
+Python 3.13 · Django 5.2 LTS · PostgreSQL 17 · Bootstrap · Docker Compose v2 · GitHub Actions. Las razones de la arquitectura y de la tecnología están en el [borrador de arquitectura](docs/04-arquitectura/Borrador_Arquitectura_Criollo_Cepeda.pdf).
 
 ## Estructura del repositorio
 

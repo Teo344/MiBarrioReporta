@@ -1,6 +1,6 @@
 # Cómo contribuir a Mi Barrio Reporta
 
-Estas reglas aplican a todo cambio del repositorio, sea código o documentación. El proceso completo (metodología, roles y artefactos) está en [docs/proceso/PROCESO.md](docs/proceso/PROCESO.md).
+Estas reglas aplican a todo cambio del repositorio, sea código o documentación. El proceso completo (metodología, roles y artefactos) está en [docs/proceso/PROCESO.md](docs/proceso/PROCESO.md), que se incorpora con el issue #3.
 
 ## 1. Flujo de trabajo (GitHub Flow)
 

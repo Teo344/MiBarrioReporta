@@ -53,11 +53,13 @@ Etiquetas anotadas con versionado semántico sobre `main`: `v0.1.0` (semana 6), 
 Un issue está terminado solo cuando se cumplen todas estas condiciones:
 
 1. Cumple todos sus criterios de aceptación (Dado/Cuando/Entonces) y se demostró en la revisión del sprint.
-2. La rama y los commits siguen las convenciones de este documento.
-3. El PR tiene `Closes #N`, al menos un comentario de revisión y la aprobación del otro integrante, y todas las conversaciones resueltas.
+2. La rama y los commits siguen las convenciones de CONTRIBUTING.md (tipo/N-descripcion y tipo(ámbito): descripción (#N)).
+3. El PR tiene Closes #N, al menos un comentario de revisión y la aprobación del otro integrante, y todas las conversaciones resueltas.
 4. Si incluye código: tiene pruebas automatizadas de su lógica, la cobertura total se mantiene en al menos el 70 % y la integración continua está en verde.
-5. La documentación afectada (README, `docs/`, manuales) está actualizada en el mismo PR.
-6. Se fusionó con *Squash and merge*, el issue quedó en **Hecho** y, si incluye código, el cambio quedó desplegado en el entorno de pruebas.
+5. La documentación afectada (README, docs/, manuales) está actualizada en el mismo PR.
+6. Se fusionó con Squash and merge, el issue quedó en Hecho y, si incluye código, el cambio quedó desplegado en el entorno de pruebas.
+
+Este texto es idéntico en `CONTRIBUTING.md`, en `.github/pull_request_template.md` y en `docs/proceso/PROCESO.md`. Si se cambia, se cambia en los tres lugares en el mismo PR.
 
 ## 7. Regla para los documentos
 

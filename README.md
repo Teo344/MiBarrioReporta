@@ -47,7 +47,7 @@ El detalle está en [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Equipo
 
-| Integrante | Usuario de GitHub |
-|---|---|
-| Mateo Criollo | Teo344 |
-| David Cepeda | |
+| Integrante | Usuario de GitHub | Aportes en el laboratorio |
+|---|---|---|
+| Mateo Criollo | Teo344 | Estructura, CONTRIBUTING, PROCESO.md y retrospectiva |
+| David Cepeda | davidcepeda1 | Plantillas, diagrama editable y revisión de PR |

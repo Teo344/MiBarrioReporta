@@ -47,7 +47,7 @@ El detalle está en [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Equipo
 
-| Integrante | Usuario de GitHub |
-|---|---|
-| Mateo Criollo | Teo344 |
-| David Cepeda | |
+| Integrante | Usuario de GitHub | Rol en el sprint 3 |
+|---|---|---|
+| Mateo Criollo | Teo344 | Líder, Calidad y DevOps |
+| David Cepeda | | Analista |

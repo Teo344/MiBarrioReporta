@@ -47,9 +47,9 @@ El detalle está en [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Equipo
 
-| Integrante | Usuario de GitHub | Aportes en el laboratorio |
-|---|---|---|
-| Mateo Criollo | Teo344 | Estructura, CONTRIBUTING, PROCESO.md y retrospectiva |
-| David Cepeda | davidcepeda1 | Plantillas, diagrama editable y revisión de PR |
+| Integrante | Usuario de GitHub | Rol en el sprint 3 | Aportes en el laboratorio |
+|---|---|---|---|
+| Mateo Criollo | Teo344 | Líder, Calidad y DevOps | Estructura, CONTRIBUTING, PROCESO.md y retrospectiva |
+| David Cepeda | davidcepeda1 | Analista | Plantillas, diagrama editable y revisión de PR |
 
 Tablero del proyecto: https://github.com/users/Teo344/projects/2
